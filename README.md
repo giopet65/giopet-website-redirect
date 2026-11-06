@@ -1,2 +1,2 @@
-# giopet-website-redirect
-giopet website redirect
+# giopet.dev website
+giopet website contents from giopet-website-redirect
